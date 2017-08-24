@@ -1,6 +1,6 @@
 # iTokenProject.org
 
-![alt text](https://pasteupload.com/images/2017/08/23/itokens-project-cover.jpg)
+![header-img-itokens](https://pasteupload.com/images/2017/08/23/itokens-project-cover.jpg)
 
 iTokenProject.org — Project Website for iTokens Blockchain Implementation
 
