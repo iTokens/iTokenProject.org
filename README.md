@@ -4,9 +4,9 @@
 
 [iTokenProject.org](http://itokensproject.org) — Project Website for iTokens Blockchain Implementation
 
-Overview: Peer-to-peer blockchain protocol on Ethereum where the total supply of coins is constantly decreasing through competitive staking. Over time each coin left becomes more rare, unlike almost all modern cryptocurrencies which have an ever increasing supply.
+**Overview:** Peer-to-peer blockchain protocol on Ethereum where the total supply of coins is constantly decreasing through competitive staking. Over time each coin left becomes more rare, unlike almost all modern cryptocurrencies which have an ever increasing supply.
 
-More Info:
+**More Info:**
 
  * Runs on Ethereum Platform
  * Full launch shortly after Proof-of-Stake is implemented into Ethereum protocol
@@ -14,6 +14,6 @@ More Info:
  * Proof-of-Stake turns competitive with "Risk-of-Loss".<br>Actively staked coins generate a net gain each block.
  * Our ICO is completley free, donations fund extensive development efforts. Contributors to our Open Source project are paid with iTokens!
  
- Website: http://iTokenProject.org/
+ **Website:** http://iTokenProject.org/
  
- Explorer: http://iTokens.info
+ **Explorer:** http://iTokens.info
