@@ -21,8 +21,11 @@ _Basic Writeup August 26th, 2017_
 - Future proof iToken POS implementation development in Solidity for Smart Contract Mining (through POS)
 
 **Official Links:**
+
 https://iTokenProject.org - _Main Project Website_
+
 http://iTokenProject.com - _Main Project Alternative Link_
+
 http://iTokens.info - _Link to iToken Block Explorer_
 
 **Coming Soon:**
