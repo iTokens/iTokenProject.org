@@ -39,5 +39,5 @@ http://iTokens.info - _Link to iToken Block Explorer_
 
 **Other Cool Features:**
 
-![iToken Self Mining Smart Contracts](http://i.imgur.com/vWmxHoq.png)
+![iToken Self Mining Smart Contracts](https://pasteupload.com/images/2017/08/24/self-mining-smart-contracts-itoken.jpg)
 
