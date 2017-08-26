@@ -36,3 +36,7 @@ http://iTokens.info - _Link to iToken Block Explorer_
 - Masternodes
 - Web Wallet for Staking
 - Proof-of-Stake Mining Pools
+
+**Other Cool Features:**
+![iToken Self Mining Smart Contracts](http://pasteupload.com/images/2017/08/26/smart-contract-mining98f91.png)
+
