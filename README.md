@@ -8,9 +8,9 @@
 
 **More Info:**
 
- * Runs on Ethereum Platform
+ * Runs on Ethereum, Utilizing Plasma Chain Platform & Staking Through Casper Update
  * Full launch shortly after Proof-of-Stake is implemented into Ethereum protocol
- * We aim to be one step ahead, and are starting development on our protocol before Ethereum's POS capabilities, in order to be first-to-market.
+ * We aim to be one step ahead, iTokens development started months before Ethereum implemented staking, all in anticipation of Ethereum's Casper Network in order to be first-to-market.
  * Proof-of-Stake turns competitive with "Risk-of-Loss".<br>Actively staked coins generate a net gain each block.
  * Our ICO is completley free, donations fund extensive development efforts. Contributors to our Open Source project are paid with iTokens!
  
