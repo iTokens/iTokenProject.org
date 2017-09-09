@@ -1,0 +1,78 @@
+**Proof of Stake vs Proof of Work**
+_Research Draft_
+
+Project: iTokens Project
+Author: _David Levin_
+Location: _Genève, Switzerland_
+Organization: iTokens Intl. © 2017. All rights reserved.
+Date: _September 9th, 2017_
+Official Website: [iToken Project](https://iTokenProject.org)
+Explorer: [iTokens.info](https://itokens.info)
+
+**Please note this draft is a work in progress, and incomplete**
+
+## iTokens Project Background
+
+iToken coins are removed instead of being added when mined, making each iToken left more rare as the supply constantly decreases. Combined with dividend returns through P.O.S., Smart Contracts enable iTokens to be automined, giving you automatic royalty dividend payments for holding your iToken balance!
+
+## How are Proof of Stake and Proof of Work different?
+
+Proof-of-Stake is a paradigm shift, because it brings an intrinsic value to crypto currencies.
+
+But let us start by what they share in common: they are both algorithms for finding consensus on the Blockchain.
+
+Without going into too many specific details, we need consensus because anyone can create a block; while we only want an unique chain, so we want a way to decide which block we should trust.
+
+An interesting feature in Proof of Work is that Bayes' Theorem and the laws of Thermodynamics can be used to prove that a given block has indeed required a certain amount of work to be mined. That way, users can just pick the longest valid chain with the highest amount of work as the correct chain.
+
+Proof of Work's main inherent flaw is that it uses 10 times more burns electricity than it needs to compared to Proof-of-Stake. Billions are spent on electricity, most of which is wasted because Proof of Work's power inefficiency.
+
+While it’s fairly interesting to be able to hold fund on behalf of others with a single validator,
+a method whereby a single party can enforce state with a set of validators often
+in a proof-of-stake framework requiring either ETH bonding,  or bonding in a token (ex
+ERC-20) is more suitable.
+
+We attempt to replicate the incentives around the Nakamoto Consensus, but using Proof-
+of-Stake bonds. We think that one of the more useful incentive mechanisms constructed as
+a result of the Nakamoto's Bitcoin mechanism is that there is incredible incentive to minimize block
+with holding potential  attacks. Each leader is randomly know over time, because they are picked through probability (in the original implementation it was 6 confirmations).
+
+When one finds a block, one is fairly sure they are likely the leader, but they are not 100% yet
+certain if they are the leader.  To make sure that they are the leader, they propagate their blocks
+to all participants on the network to maximize their odds.  We believe this is a significant
+if  not the  key  contribution with  the  Nakamoto's Bitcoin type mechanism  and try  to  replicate this
+incentive.
+
+ Bitcoin mining is no longer profitable since the number of users on the network has made the difficults so high that even commercial ASIC Miners do not make a profit. It was estimated by the company Antmain in 2017 that with current energy prices, that price of average amount of energy spent to mine 1 Bitcoin is over 10,000 USD$ (despite the price of one Bitcoin being $4400 USD). This means most Bitcoin miners are operating at a loss, but this is a common trend as most rely on future price speculation and don't mind operating at a net loss.
+Proof of Stake would reduce the cost of mining today to less than $1,000 at current difficulty rates and be able to maintain the same security, transaction speed, and all other utilities. 
+
+ But this implies that Proof of Work is extremely inefficient in term of energy, and therefore also very expensive; which incentivize miners to centralize the hashing power -- obviously not desirable for a network whose goal is to minimize the need to trust third parties. iTokens combine dividend returns from P.O.S. on Ethereum with the concept of Anti-Mining, decreasing coin supply every block, removing iTokens instead of mining new ones, making each one left more valuable. Wasted energy on mining just "Burns Money". The billions of dollars of Electricity that Proof of Work Mining burns any benefit to Bitcoin's network or securing transactions, just burned for no reason, has environmental implications. The consensus mechanism for this proof of stake system,  is again,  enforced in an on-
+blockchain smart contract.
+
+Ethereum is going to use Casper, where the stake of malicious validators is going to get (partially) slashed, for example if they sign two (competing) blocks with too high a probability.
+
+Proof of Stake isn't about mining, it's about validating. In effect blocks still need to be created by someone, and who gets to create the next block depends on the specific Proof of Stake algorithm, but the selection process must have some kind of randomness, or at least distribute voting shares properly (otherwise we revert to a centralized system).
+
+In PoS, each validator owns some stake in the network, ether in the case of Ethereum, that they bond. Bonding stake means you deposit some money into the network, and in some sense use it as a collateral to vouch for a block. In PoW you know a chain is valid because lots of work is behind it, while in PoS you trust the chain with the highest collateral.
+
+## Author
+Overview: Research Draft submitted by David Levin, a key Solidity & C Algorithm Designer & Development Contributor to iToken. This is a draft of some of his ideas on how Proof of Stake differs from Proof of Work when implemented in iTokens Protocol Architecture on Ethereum's Casper Update. This was posted in draft form because of requests from the Team to read it even in it's current state. Based out of Genève, Switzerland, David is currently focused time on full-time post-doctoral research in the field of Algorithm Development. David leads a team open-source of open source researchers through his Think Tank at their Genève location, which contributes to multiple various open-source projects in his spare time. David's professional experience includes extensive consulting work for Citigroup as well as Quantum Group of Funds in Senior Research Roles. His contributions to iTokens' include the development proprietary Proof-of-Stake algorithms, and has helped with its implementation in C and Solidity and peer reviews the iToken Protocol, making him an integral part of the iTokens team.
+
+Alt Overview: Short Dissertation Essay Draft Research Draft Authored by Dr David Levin (PhD) 
+
+
+## References
+
+## *Updating references section, currently in draft
+_TODO: Add All Sources Used, Stanford Library & Other Reference Areas Not Yet Added Here_
+
+http://plasma.io/plasma.pdf
+https://github.com/ethereum/research/blob/master/papers/casper-economics/casper_economics_basic.pdf
+http://www.the-blockchain.com/docs/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf
+https://github.com/ethereum/research
+https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
+https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51
+https://github.com/ethereum/research/wiki/A-note-on-data-availability-and-erasure-coding
+
+## Footer
+Short Essay Draft Authored by Dr David Levin, PhD., an open-source contributor to the iTokens Project. Dr. David Levin, Quai de la Poste, 1204 Genève, Switzerland
